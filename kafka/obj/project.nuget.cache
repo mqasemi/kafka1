@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBg8cwuOelr7BiNfKEPvwZefSnkUUYh+6z8wTCoHVJMMXcsBDVQ3kuPQmioWZv3R5zwxKpP3AMyG4z2qh4kPVg==",
+  "success": true,
+  "projectFilePath": "G:\\self-project\\kafka\\kafka\\kafka\\kafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ms-ghasemi\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\ms-ghasemi\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\ms-ghasemi\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
